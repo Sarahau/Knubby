@@ -1,16 +1,6 @@
-# final_project
+# Knubby
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Knubby: A Knitting Buddy is an app for knitters! 
+  Browse for new project ideas
+  Track your projects and count your rows
+  Find out what the pattern is saying
