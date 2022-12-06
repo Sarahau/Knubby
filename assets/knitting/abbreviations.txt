@@ -1,0 +1,84 @@
+alt
+approx
+beg
+bet
+BO
+byo
+CC
+cn
+CO
+cont
+dec
+dpn
+foll
+inc
+k
+k1B
+kfb
+ksp
+k2tog
+kwise
+LH
+lp
+m
+M1 or M1K
+M1R
+M1L
+M1p
+M1rp
+M1lp
+MC
+p
+pat or patt
+pfb
+pm
+p2tog
+prev
+psso
+p2sso
+pwise
+rem
+rep
+rev St st
+RH
+rnd
+RS
+SKP
+SK2P
+sl
+sl1k
+sl1p
+sl st
+sm
+ssk
+ssp
+sssk
+sssp
+S2KP2
+SSPP2
+st
+St st
+tbl
+tfl
+tog
+WS
+w&t
+wyib
+wyif
+yb
+yfwd or yf
+yo
+yon
+yrn
+*
+* *
+{ }
+[ ]
+( )
+” or in
+cm
+g
+m
+mm
+oz
+yd

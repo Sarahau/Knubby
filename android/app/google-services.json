@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "326676021401",
+    "project_id": "knubby-f75db",
+    "storage_bucket": "knubby-f75db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326676021401:android:e43c25a03b70aa0c88b808",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326676021401-ano50doh715lrgtfafv183qa79nd4e11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtZegIjwMfLoen0-sk-coWFqsEN9W8TUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326676021401-ano50doh715lrgtfafv183qa79nd4e11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326676021401-75letgvum1s1n1kp3kdiq61pt059pf8t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sarahau.knubbyKnittingBuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
